@@ -13,6 +13,8 @@
 
 ## PDF of slides 
 
+1. *GitHub* : 
+1. *FigShare* : 
 
 
 ## Code
