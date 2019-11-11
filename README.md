@@ -1,6 +1,8 @@
 # Module 00 : Welcome to PhysiCell training
+This short module introduces the PhysiCell training materials.
 
 ## Online recordings of these slides
+Duration: 
 1. **YouTube**
 1. **FigShare:**
 1. **NanoHUB:**
