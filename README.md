@@ -1,3 +1,19 @@
-# 00-Welcome-to-training
+# Module 00 : Welcome to PhysiCell training
 
-blah blah 
+## Online recordings of these slides
+
+### YouTube
+
+### FigShare 
+
+### NanoHUB
+
+### CSBC / PS-ON Network 
+
+
+## PDF of slides 
+
+
+
+## Code
+None for this module. 
