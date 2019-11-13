@@ -19,4 +19,7 @@ None for this lesson.
 ## Educational microapps 
 None for this lesson. 
 
+See [lesson 02](https://github.com/physicell-training/02-How-to-nanoHUB) for a tutorial on running [PhysiCell](http://PhysiCell.org) models on [nanoHUB](https://www.nanohub.org). 
+
+
 
