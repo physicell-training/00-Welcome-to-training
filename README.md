@@ -1,7 +1,7 @@
-# Module 00 : Welcome to PhysiCell training
-This short module introduces the PhysiCell training materials.
+# Lesson 00 : Welcome to PhysiCell training
+This short lesson introduces the PhysiCell training materials.
 
-## Video recording of module 
+## Video recording of lesson 
 Duration: 
 1. **YouTube**
 1. **FigShare:**
@@ -14,9 +14,9 @@ Duration:
 1. **FigShare:** 
 
 ## Companion code
-None for this module. 
+None for this lesson. 
 
 ## Educational microapps 
-None for this module. 
+None for this lesson. 
 
 
