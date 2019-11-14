@@ -1,4 +1,4 @@
-# Lesson 00 : Welcome to PhysiCell training
+# Lesson 0 : Welcome to PhysiCell training
 This short lesson introduces the PhysiCell training materials.
 
 ## Video recording of lesson 
@@ -19,7 +19,7 @@ None for this lesson.
 ## Educational microapps 
 None for this lesson. 
 
-See [lesson 02](https://github.com/physicell-training/02-How-to-nanoHUB) for a tutorial on running [PhysiCell](http://PhysiCell.org) models on [nanoHUB](https://www.nanohub.org). 
+See [Lesson 2](https://github.com/physicell-training/02-How-to-nanoHUB) for a tutorial on running [PhysiCell](http://PhysiCell.org) models on [nanoHUB](https://www.nanohub.org). 
 
 
 
